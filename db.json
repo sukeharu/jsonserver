@@ -4,10 +4,11 @@
     { "id":"2", "title": "Post 2", "start": ["15:30-", "18:00-"]},
     { "id":"3", "title": "Post 3", "start": ["21:00-"]}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "price": {
+    "pizza": 2600,
+    "pasta": 1480,
+    "salad": 1280
+  },
   "profile": {
     "name": "typicode"
   }
